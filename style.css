@@ -1,0 +1,142 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(254, 233, 230);
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .btn {
+    background: #f2f2f2;
+    border: none;
+    border-radius: 10px;
+    width: 160px;
+    height: 40px;
+    margin-top: 20px;
+    box-shadow: inset 1px 1px 5px #000000,1px 1px 5px #000000;
+    margin-bottom:10px;
+            
+         
+            
+      
+        }
+  
+  
+
+        .btn:hover {
+            background-color: aqua;
+        }
+    .bt:hover{
+             background-color: hotpink;
+        
+    }
+
+        .table-container {
+            margin-bottom: 30px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            background-color: #ffffff;
+            
+             font-size: 15px;
+   background: #f2f2f2;
+   box-shadow: inset 1px 1px 5px #000000,1px 1px 5px #000000;
+    
+     border: none;
+          
+          
+        }
+
+        table {
+            width: 100%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+
+    
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .action-btn {
+            box-shadow: inset 0.90px 0.90px 3px #000000,0.90px 0.90px 3px #000000;
+            margin:3px;
+            border-radius:5px;
+          
+            font-size: 15px;
+   background: #f2f2f2;
+    
+            
+          
+    border: none;
+        }
+
+        .action-btn:hover {
+            background-color: red;
+        }
+
+        #output {
+            margin-top: 10px;
+            text-align: center;
+            font-size: 16px;
+          
+          
+        }
+
+        #historyModal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #f2f2f2;
+            color: black;
+            padding: 20px;
+        }
+
+        #historyModal ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #historyModal ul li {
+            margin: 10px 0;
+        }
+
+        #historyModal button {
+           background: #f2f2f2;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    margin-top: 20px;
+            
+    box-shadow: 5px 5px 5px #8c8c8c,-5px -5px 5px #ffffff;
+ 
+            font-size: 14px;
+            
+        }
+       
+    
+.bt{
+    
+    background: #f2f2f2;
+    box-shadow: inset 1px 1px 5px #000000,1px 1px 5px #000000;
+    
+    border: none;
+    border-radius: 10px;
+    width: 110px;
+    height: 30px;
+    margin-top: 1px;
+    margin-left:170px;
+    margin-bottom: 10px;
+}    
+        
